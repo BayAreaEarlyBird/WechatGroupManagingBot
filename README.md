@@ -1,6 +1,6 @@
 # WechatGroupManagingBot
 
-## Dependences
+## Dependencies
 
 * Python 3.5.2
 
